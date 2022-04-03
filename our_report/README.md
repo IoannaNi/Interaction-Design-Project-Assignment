@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### First and Last Name: ΠΑΝΑΓΙΩΤΗΣ ΚΟΥΡΤΙΔΗΣ , ΕΜΜΑΝΟΥΗΛ ΨΥΧΑΛΗΣ , ΙΩΑΝΝΑ ΝΙΝΟΥ 
+### University Registration Number: DPSD17053 , DPSD17127 , DPSD19085
+### GitHub Personal Profile: https://github.com/kourtidaros , https://github.com/SUPERSPECIAL99 , https://github.com/IoannaNi
 
 # Introduction
 
@@ -10,7 +10,23 @@
 
 
 # 1st Deliverable
-
+1|
+Το προιόν που θα σχεδιάσουμε και στην συνέχεια θα κατασκεύασουμε είναι ένα μέσο μέτρησης χρόνου, που σπάσει τον χρόνο εργασίας σε 45-λεπτα χρονικά διαστήματα, τα οποία με την σειρά τους χωρίζονται με διαλείμματα. Απευθύνεται σε χρήστες που επιθυμούν να οργανώσουν το χρόνο εργασίας τους. Εστιάζει στην παραγωγικότητα, την νοητική εγρήγορση και την αποδοτικότητα του χρήστη. 
+2|
+i)Το προιόν απευθύνεται στους χρήστες, οι οποίοι επιθυμούν να οργανώσουν την χρονική διάρκεια της εργασίας τους και τα διαλείμματά τους, αλλά και σε ιδιοκτήτες εταιρίων που θέλουν οι εργαζόμενοι τους να τους αποδίδουν το μέγιστο αποτέλεσμα ως εμπλεκόμενους χρήστες. Το προιόν θα τοποθετείτε στο γραφείο με αποτέλεσμα το εύρος εργασιών που θα μπορεί να υποστηρίξει θα διαδραματίζονται στο γραφείο του χρήστη (π.χ. μελέτη, ζωγραφική, σχεδίαση , κλπ.). 
+ii) Οι περισσότεροι χρήστες χρησιμοποιούν την τεχνική Πομοντόρο μέσω ψηφιακών χρονομέτρων από το διαδίκτυο ή από το κινητό τους τηλέφωνο. Σε εταιρίες συνήθως χρησιμοποιούν ψηφιακά ή αναλογικά προιόντα και οι χρόνοι ορίζονται απο τον υπέθυνο του εκάστοτε πόστου. Πολλές φορές επίσης παρατηρείτε ο χρήστης να βάζει διάφορα βίντεο με την τεχνική Πομοντόρο που υπάρχουν στο διαδίκτυο. 
+iii) Το προιόν είναι μια κατασκευή μικρού μεγέθους, το οποίο ο χρήστης θα τοποθετεί στο γραφείο του και θα τον συντροφεύει κατα την διάρκεια της εργασίας του. Το ένα προιόν θα αντιστοιχεί σε έναν χρήστη. 
+iv)
+ Ανταγωνιστηκά προιόντα:
+⦁	Ψηφιακά ρολόγια /  χρονόμετρα.
+⦁	Αναλογίκα ρολόγια /  χρονόμετρα.
+⦁	Βίντεο στο διαδίκτυο.
+ Τεχνολογία:
+⦁	Arduino
+⦁	Leds
+⦁	Liquid crystal display (LCD)
+⦁	Voice sensor
+⦁	Speakers
 
 # 2nd Deliverable
 
@@ -22,3 +38,9 @@
 
 
 # Sources
+⦁	https://el.wikipedia.org/wiki/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A0%CE%BF%CE%BC%CE%BF%CE%BD%CF%84%CF%8C%CF%81%CE%BF
+⦁	https://www.youtube.com/watch?v=pRKGH8soIbk&t=6482s
+⦁	https://nesto.cc/
+⦁	https://zapier.com/blog/best-pomodoro-apps/
+⦁	https://www.eurolife.gr/el-GR/Blog/articles/180919-epixeiriseis-simvoules-gia-apotelesmatiki-organosi-xronou
+⦁	https://www.elorus.com/el/blog/10-apotelesmatikes-texnikes-gia-kaliteri-diaxeirisi-xronou-sth-douleia/
