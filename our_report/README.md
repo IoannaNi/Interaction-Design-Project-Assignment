@@ -27,10 +27,13 @@ iv)
 	Leds
 	Liquid crystal display (LCD)
 	Bluetooth module
-	Μαγνητάκι
-    
-# 2nd Deliverable
+	Μαγνητάκι,
+    Κουμπάκι
 
+
+
+# 2nd Deliverable
+file:///C:/Users/ioann/Downloads/%CE%94%CE%B9%CE%B1%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%A3%CF%87%CE%B5%CE%B4%CE%AF%CE%B1%CF%83%CE%B7.pdf
 
 # 3rd Deliverable 
 
