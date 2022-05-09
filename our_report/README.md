@@ -1,4 +1,4 @@
-![1ο ερωτημα](https://user-images.githubusercontent.com/100956310/167441390-8433eccc-ec18-4a54-a938-8964efdfcc6d.jpg)
+
 # Lesson: Interaction Design
 
 ### First and Last Name: ΠΑΝΑΓΙΩΤΗΣ ΚΟΥΡΤΙΔΗΣ , ΕΜΜΑΝΟΥΗΛ ΨΥΧΑΛΗΣ , ΙΩΑΝΝΑ ΝΙΝΟΥ 
@@ -36,7 +36,7 @@ iv)
 # 2nd Deliverable
 
 Information architecture
-our_report/1ο ερωτημα.jpg
+![1ο ερωτημα](https://user-images.githubusercontent.com/100956310/167441390-8433eccc-ec18-4a54-a938-8964efdfcc6d.jpg)
  
 
 
