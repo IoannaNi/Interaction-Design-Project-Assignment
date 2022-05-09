@@ -36,16 +36,14 @@ iv)
 # 2nd Deliverable
 <h2> Information architecture </h2>
 
-
-
  ![1](https://user-images.githubusercontent.com/100956310/167445058-576a2557-6769-442f-9793-b037fd86517c.jpg)
 
-User interaction
+<h2> User interaction </h2>
 
 ![2](https://user-images.githubusercontent.com/100956310/167445455-5509c869-52e6-45cf-b403-5a52212d3582.jpg)
 
 
-Interface design
+<h2> Interface design </h2>
 
 
 ![3](https://user-images.githubusercontent.com/100956310/167445574-6133e81a-a923-4620-ae0c-6054b4d535d1.jpg)
