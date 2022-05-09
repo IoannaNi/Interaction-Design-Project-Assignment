@@ -35,8 +35,7 @@ iv)
 # 2nd Deliverable
 
 Information architecture
-
- <img src = "diadrastiki/.jpg" >
+our_report/1ο ερωτημα.jpg
  
 
 
