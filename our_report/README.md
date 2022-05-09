@@ -34,10 +34,22 @@ iv)
 
 
 # 2nd Deliverable
+<h2> Information architecture </h2>
 
-Information architecture
-![1ο ερωτημα](https://user-images.githubusercontent.com/100956310/167441390-8433eccc-ec18-4a54-a938-8964efdfcc6d.jpg)
- 
+
+
+ ![1](https://user-images.githubusercontent.com/100956310/167445058-576a2557-6769-442f-9793-b037fd86517c.jpg)
+
+User interaction
+
+![2](https://user-images.githubusercontent.com/100956310/167445455-5509c869-52e6-45cf-b403-5a52212d3582.jpg)
+
+
+Interface design
+
+
+![3](https://user-images.githubusercontent.com/100956310/167445574-6133e81a-a923-4620-ae0c-6054b4d535d1.jpg)
+
 
 
 # 3rd Deliverable 
@@ -53,3 +65,4 @@ Information architecture
 ⦁	https://zapier.com/blog/best-pomodoro-apps/
 ⦁	https://www.eurolife.gr/el-GR/Blog/articles/180919-epixeiriseis-simvoules-gia-apotelesmatiki-organosi-xronou
 ⦁	https://www.elorus.com/el/blog/10-apotelesmatikes-texnikes-gia-kaliteri-diaxeirisi-xronou-sth-douleia/
+
