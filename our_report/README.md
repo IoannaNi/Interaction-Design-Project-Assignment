@@ -37,23 +37,25 @@ iv)
 
 
 # 2nd Deliverable
-4)
+
 <h2> Information architecture </h2>
 
- ![1](https://user-images.githubusercontent.com/100956310/167445058-576a2557-6769-442f-9793-b037fd86517c.jpg)
+![My First Board](https://user-images.githubusercontent.com/100956310/172229480-171a7c1b-f96e-4fab-98a1-c037854132d6.jpg)
+
 
 <h2> User interaction </h2>
+![My First Board (1)](https://user-images.githubusercontent.com/100956310/172229541-c836ce4d-e661-4a17-9c17-fd9c1affd516.jpg)
 
-![2](https://user-images.githubusercontent.com/100956310/167445455-5509c869-52e6-45cf-b403-5a52212d3582.jpg)
+
 5)
-Με την χρήση του προιόντος πλέον ξυπνάει το πρωί, κάνει τις απαραίτητες ενέργειες και φεύγοντας απο το σπίτι συνδέει το κινητό του τηλέφωνο με το προιόν και αφήνει το μήνυμα που θέλει στο συγκάτοικό του. Ο συγκάτοικος με τη σειρά του αφού ξυπνήσει θα δει την φωτεινή ένδειξη και θα διαβάσει το μήνυμα του συγκάτοικού του. Αφού δει το μήνυμα, πατάει το κουμπάκι και σβήνει το μήνυμα και το led.
+Με την χρήση του προιόντος πλέον ο χρήστης διασκεδάζει και περνάει εποικοδομητικά την ώρα του με την υπόλοιπη παρέα.
 
 
-6)
 <h2> Interface design </h2>
 
 
-![3](https://user-images.githubusercontent.com/100956310/167445574-6133e81a-a923-4620-ae0c-6054b4d535d1.jpg)
+![My First Board (2)](https://user-images.githubusercontent.com/100956310/172229589-b6215d01-89d8-40ef-ba6a-da88d463a76c.jpg)
+
 
 
 
