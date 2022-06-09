@@ -33,6 +33,7 @@ iv)
 
  Τεχνολογία:
  
+ 
 	Arduino Uno
         Breadboard
         Resistor (220 Ohm)
@@ -48,12 +49,14 @@ iv)
 
 <h2> Information architecture </h2>
 
-![My First Board](https://user-images.githubusercontent.com/100956310/172229480-171a7c1b-f96e-4fab-98a1-c037854132d6.jpg)
+![1](https://user-images.githubusercontent.com/100956310/172804551-878c2197-2365-42c1-bf86-d0f62fd787a4.jpg)
+
 
 
 <h2> User interaction </h2>
 
-![My First Board (1)](https://user-images.githubusercontent.com/100956310/172229541-c836ce4d-e661-4a17-9c17-fd9c1affd516.jpg)
+![2](https://user-images.githubusercontent.com/100956310/172804629-529263ff-0129-45b3-883f-f3b6e8b06456.jpg)
+
 
 
 5)
@@ -65,7 +68,8 @@ iv)
 <h2> Interface design </h2>
 
 
-![My First Board (2)](https://user-images.githubusercontent.com/100956310/172229589-b6215d01-89d8-40ef-ba6a-da88d463a76c.jpg)
+![3](https://user-images.githubusercontent.com/100956310/172804679-ee58da71-b608-41ec-a817-7a3f8a0cf7a0.jpg)
+
 
 
 
@@ -83,4 +87,6 @@ iv)
 ⦁	https://zapier.com/blog/best-pomodoro-apps/
 ⦁	https://www.eurolife.gr/el-GR/Blog/articles/180919-epixeiriseis-simvoules-gia-apotelesmatiki-organosi-xronou
 ⦁	https://www.elorus.com/el/blog/10-apotelesmatikes-texnikes-gia-kaliteri-diaxeirisi-xronou-sth-douleia/
+⦁       https://miro.com/app/board/uXjVOuIH6B4=/
+
 
