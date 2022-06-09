@@ -76,17 +76,42 @@ iv)
 
 # 3rd Deliverable 
 
+<h2> STORYBOART - ΣΕΝΑΡΙΑ </h2>
+  
+  
+  ![286175709_1933147166872974_4611811524450403_n](https://user-images.githubusercontent.com/100956310/172921190-c34111bf-15ab-444b-ba0c-a3bfca6ff740.png)
+  
+  
+  <h2> PROTOTYPE </h2>
+  
+  Το αντικειμενό μας έχει την εξής μορφή:
+  
+  ![Χωρίς τίτλο](https://user-images.githubusercontent.com/100956310/172921397-489215ec-b9d0-44fa-ad32-f5b2a52331da.jpg)
+  
+  
+  Ενώ εσωτερικά δουλεύει ως εξής:
+  
+
+  ![286344815_492680055939321_7860347022843067769_n](https://user-images.githubusercontent.com/100956310/172922159-965738cc-3565-461c-a1c8-87e8c1ae3278.png)
+![286179851_428302882198190_8177015583746861257_n](https://user-images.githubusercontent.com/100956310/172922165-e6790634-7ac3-49aa-a47e-864c6b0b7090.png)
+
+
+<h2> Μπορείτε να δείτε τον κωδικα μας και εδω.. </h2> [here]([https://github.com/](https://www.tinkercad.com/things/jOha8deQEhR-super-pink/editel))
+
+
 
 # Conclusions
 
 
+
 # Sources
-⦁	https://el.wikipedia.org/wiki%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A0%CE%BF%CE%BC%CE%BF%CE%BD%CF%84%CF%8C%CF%81%CE%BF 
-⦁	https://www.youtube.com/watch?v=pRKGH8soIbk&t=6482s
-⦁	https://nesto.cc/
-⦁	https://zapier.com/blog/best-pomodoro-apps/
-⦁	https://www.eurolife.gr/el-GR/Blog/articles/180919-epixeiriseis-simvoules-gia-apotelesmatiki-organosi-xronou
-⦁	https://www.elorus.com/el/blog/10-apotelesmatikes-texnikes-gia-kaliteri-diaxeirisi-xronou-sth-douleia/
-⦁       https://miro.com/app/board/uXjVOuIH6B4=/
+https://el.wikipedia.org/wiki%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A0%CE%BF%CE%BC%CE%BF%CE%BD%CF%84%CF%8C%CF%81%CE%BF 
+https://www.youtube.com/watch?v=pRKGH8soIbk&t=6482s
+https://nesto.cc/
+https://zapier.com/blog/best-pomodoro-apps/
+https://www.eurolife.gr/el-GR/Blog/articles/180919-epixeiriseis-simvoules-gia-apotelesmatiki-organosi-xronou
+https://www.elorus.com/el/blog/10-apotelesmatikes-texnikes-gia-kaliteri-diaxeirisi-xronou-sth-douleia/
+https://miro.com/app/board/uXjVOuIH6B4=/
+https://www.tinkercad.com/things/jOha8deQEhR-super-pink/editel
 
 
