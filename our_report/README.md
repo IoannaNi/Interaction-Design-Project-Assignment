@@ -96,7 +96,7 @@ iv)
 ![286179851_428302882198190_8177015583746861257_n](https://user-images.githubusercontent.com/100956310/172922165-e6790634-7ac3-49aa-a47e-864c6b0b7090.png)
 
 
-<h2> Μπορείτε να δείτε τον κωδικα μας και εδω.. </h2>  [here]([https://github.com/](https://www.tinkercad.com/things/jOha8deQEhR-super-pink/editel)
+<h2> Μπορείτε να δείτε τον κωδικα μας και εδω.. </h2>  [here](https://www.tinkercad.com/things/jOha8deQEhR-super-pink/editel)
 
 
 
